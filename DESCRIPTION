@@ -2,9 +2,14 @@ Package: praiseme
 Type: Package
 Title: A Package to Desseminate Praise
 Version: 0.1.0
-Author: Haoyu Yang
-Maintainer: Haoyu Yang <hy.yang880@gmail.com>
+Authors@R: person("Haoyu", "Yang", 
+    email="hy.yang880@gmail.com", role=c("cre","aut"))
 Description: This package praise the user with simple funcitons. 
 License: MIT
 Encoding: UTF-8
 RoxygenNote: 7.2.1
+biocViews: Software, AlternativeSplicing
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
