@@ -7,4 +7,4 @@ Maintainer: Haoyu Yang <hy.yang880@gmail.com>
 Description: This package praise the user with simple funcitons. 
 License: MIT
 Encoding: UTF-8
-
+RoxygenNote: 7.2.1
